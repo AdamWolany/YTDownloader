@@ -228,3 +228,5 @@ __pycache__/
 *.webm
 
 linki.txt
+
+.idea/
